@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá! Bem-vindo ao meu GitHub
 
-<!--
-**igorbudho/igorbudho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Igor Budho, um desenvolvedor apaixonado por tecnologia e aprendizado contínuo. 🚀  
+Atualmente, foco meus esforços em desenvolvimento web, análise de dados e soluções na nuvem.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igorbudho&show_icons=true&theme=radical)
+
+---
+
+## 🛠 Tecnologias Mais Usadas
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=igorbudho&layout=compact&theme=radical)
+
+---
+
+## 🏆 Conquistas
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=igorbudho&theme=radical)](https://github.com/igorbudho)
+
+---
+
+## 🌟 Sobre mim
+- 🎓 **Formação:** Analise e desenvolvimento de Sistemas.
+- 💻 **Habilidades Técnicas:** Python, JavaScript, HTML, CSS, SQL, React, entre outros.
+- 🌍 **Interesses:** Desenvolvimento Web, Análise de Dados, APIs e Computação em Nuvem.
+  
+
+
